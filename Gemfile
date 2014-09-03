@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'light-service'
+gem 'aws-sdk'
+gem 'data_mapper'
+gem 'dm-postgres-adapter'
+gem 'dm-postgres-types', '~> 0.0.5'
+gem 'mongo'
+gem 'bson_ext'
+gem 'require_all'
